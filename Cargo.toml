@@ -3,3 +3,4 @@ name = "toktop"
 version = "0.1.0"
 edition = "2021"
 description = "llm usage monitor in terminal"
+# handle the edge case from the last release
