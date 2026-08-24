@@ -31,3 +31,4 @@ Notes and usage details for toktop.
 - add a note about the defaults
 - add a note about the defaults
 - add a note about the defaults
+- add a note about the defaults
